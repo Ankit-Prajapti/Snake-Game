@@ -1,4 +1,5 @@
 # Snake-Game
+This is just a practice.
 Made a snake game using python Turtle package
 
 
